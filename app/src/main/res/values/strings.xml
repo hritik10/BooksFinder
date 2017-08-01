@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Books Finder</string>
+    <string name="noInternet">No internet</string>
+    <string name="noBooks">No Books</string>
+</resources>
